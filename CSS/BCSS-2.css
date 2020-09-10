@@ -1,0 +1,52 @@
+div {
+    display: inline-block;
+    padding: 20px;
+    border:  3px solid yellow;
+    margin:  20px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: large;
+    font-weight: 1, 2;
+    color: white;
+    text-align: center;
+}
+
+
+#green {
+background: green;
+}
+#green:hover {
+    background:greenyellow;
+}
+#blue {
+    background: blue;
+}
+#blue:hover{
+    background: lightskyblue;
+}
+#red {
+    background: red;
+}
+#red:hover{
+        background: orange;
+}
+#purple {
+background: purple;
+}  
+#purple:hover{
+background: orchid;
+}  
+#orange {
+    background:orange;
+}
+#orange:hover{
+    background: lightskyblue;
+}
+button{
+    background: peru;
+    border-radius: 10px;
+    
+}
+button:hover{
+    background: plum;
+    color: purple;
+}

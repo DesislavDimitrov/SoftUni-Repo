@@ -1,0 +1,12 @@
+h1 {color: blue;}
+p {color:purple;}
+li {
+    border: 2px solid yellow;
+}
+ol {
+    border: 2px solid yellow ;
+}
+
+span {
+    border: 2px dotted green;
+}
