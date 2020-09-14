@@ -1,0 +1,11 @@
+p {
+    border:  5px solid;
+    border-radius: 5px;
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+    margin:  50px;
+    background-color: rgb(64, 224, 208);
+    
+    margin:  auto;
+}
