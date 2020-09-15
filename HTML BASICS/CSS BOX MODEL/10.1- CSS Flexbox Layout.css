@@ -1,0 +1,65 @@
+body{
+
+    display: flex;
+    background-color: gainsboro;
+    padding: 10px;
+    margin: 10px;
+}
+.box-container{
+    width: 100%;
+    
+}
+
+header{
+    
+    background-color: white;
+    /* border: 2px solid black; */
+    box-shadow: 2px 2px 2px black;
+    border-radius: 10px;
+    margin: 10px;
+    height: 50px;
+
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 100%;
+}
+section{
+    display: inline-block;
+    display: flex;
+    
+}
+
+main{
+    border: none;
+    /* border: 2px solid black; */
+    background-color: white;
+    border-radius: 10px;
+    width: 1300px;
+    height: 250px;
+    
+    margin: 10px;
+}
+
+aside{
+    /* border: 2px solid black; */
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+footer{
+    /* border: 2px solid black; */
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    height: 50px;
+
+}
+
+p{
+    margin: 10px;
+}

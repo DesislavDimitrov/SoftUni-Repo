@@ -1,5 +1,5 @@
 function array(input) {
-    
+
     let newInput = input.slice();
 
     let first = Number(input.shift());
