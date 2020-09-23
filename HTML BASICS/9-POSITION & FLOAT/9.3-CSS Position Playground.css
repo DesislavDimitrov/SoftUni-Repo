@@ -1,0 +1,25 @@
+body {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+div {
+    height: 50vh;
+    position: relative;
+}
+
+section {
+    display: block;
+    position: absolute;
+    left: 40%;
+}
+
+
+img {
+    box-sizing: border-box;
+    display: flex;
+    width: 40%;
+    
+}
