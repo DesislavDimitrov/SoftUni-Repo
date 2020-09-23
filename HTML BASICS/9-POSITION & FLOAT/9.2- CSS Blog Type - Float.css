@@ -4,22 +4,17 @@ html {
     font-family: Helvetica, sans-serif;
 }
 
-
 header{
     border-bottom: 2px solid black;
 }
 
-
-
-.site-title {
-    display: inline-block;
-    font-weight: bold;
-    /* text-transform: uppercase; */
-    font-size: 2em;
+blockquote {
+    font-family: georgia, serif;
+    font-style: italic;
 }
 
-h1, h2 {
-    font-family: 'Times New Roman', Times, serif;
+h1, h2, h3 {
+    font-family: Georgia, serif;
 }
 
 h1 {
@@ -32,4 +27,11 @@ h2 {
 
 body {
     max-width: 60em;
+}
+
+.site-title {
+    display: inline-block;
+    font-weight: bold;
+    /* text-transform: uppercase; */
+    font-size: 2em;
 }
