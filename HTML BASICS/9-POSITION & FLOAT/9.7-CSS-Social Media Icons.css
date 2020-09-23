@@ -1,0 +1,41 @@
+ul {
+    display: inline-block;
+    /* display: flex; */
+    border: 2px solid black;
+    width: 27%;
+    padding: 5%;
+}
+
+li {
+    list-style: none;
+    float: left;
+    
+    padding-right: 5%;
+}
+
+a {
+    border-radius: 50%;
+    background-color: rgb(241, 241, 233);
+    font-size: 25px;
+    padding: 0.5em;
+}
+
+.fa-facebook:hover {
+    color: darkblue;
+}
+
+.fa-twitter:hover {
+    color: darkcyan;
+}
+
+.fa-google:hover {
+    color: red;
+}
+
+.fa-linkedin:hover {
+    color: rgb(24, 218, 121);
+}
+
+.fa-instagram:hover {
+    color: rgb(184, 206, 198);
+}
