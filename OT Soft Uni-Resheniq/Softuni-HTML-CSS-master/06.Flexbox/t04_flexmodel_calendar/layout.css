@@ -30,7 +30,8 @@ span {
     text-align: center;
 }
 
-.week-day-type, .workday, .weekend-day {
+.week-day-type,
+.workday, .weekend-day {
     padding: 1.5em;
 }
 
