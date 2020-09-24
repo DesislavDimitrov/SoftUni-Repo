@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+div {
+    display: flex;
+    height: 50vh; 
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    width: auto;
+    align-items: center;
+}
+
+img {
+    box-sizing: border-box;
+    display: inline-block;
+ 
+}
+
+.first section {
+    top: 10%;
+}
+
+.second section {
+    bottom: 10%;
+}
