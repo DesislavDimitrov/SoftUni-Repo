@@ -1,15 +1,40 @@
 body {
     background-color: rgb(238, 238, 238);
+    display: flex;
 }
 section {
-    align-content: center;
-   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
 }
 
 div {
- 
- background-color: white;
- max-width: 50%;
- 
- 
+    display: flex;
+    justify-content: center;
+    max-width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+
+button {
+    position: relative;
+    left: 1%;
+    background-color: rgb(0, 153, 0);
+}
+
+img {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-grow: 1;
+
+}
+.card {
+    
+   
+}
+.pic {
+    display: flex;
+    justify-content: center;
 }
